@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Data Science**
 
-- 💬 Ask me about **HTML CSS JavaScript**
+- 💬 Ask me about **HTML CSS JavaScript JAVA**
 
 - 📫 How to reach me **maheshyadavsrn2022@gmail.com**
 
