@@ -1,15 +1,15 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndpeTQ3aGQ4dzhwd3ltMjVsanBieGFscWhjczE2ZzBrbWVuNWY0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/100.webp)
 <h1 align="center">Hi 👋, I'm Mahesh Yadav</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshyadavsrn&label=Profile%20views&color=0e75b6&style=flat" alt="maheshyadavsrn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Data Science**
+- 🌱 I’m currently learning **Java Developer & Salesforce Developer**
 
-- 💬 Ask me about **HTML CSS JavaScript JAVA**
+- 💬 Ask me about **HTML CSS JavaScript JAVA React Node Spring Boot**
 
 - 📫 How to reach me **maheshyadavsrn2022@gmail.com**
 
